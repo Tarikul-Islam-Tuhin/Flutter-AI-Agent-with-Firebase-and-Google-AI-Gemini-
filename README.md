@@ -79,3 +79,5 @@ See code in [`lib/audio_app_manager/audio_app_manager_demo.dart`](https://github
 - [Demo App] [Colorist](https://github.com/flutter/demos/tree/main/vertex_ai_firebase_flutter_app): A Flutter application that explores LLM tooling interfaces by allowing users to describe colors in natural language. The app uses Gemini LLM to interpret descriptions and change the color of a displayed square by calling specialized color tools.
 - [Firebase AI Logic docs](https://firebase.google.com/docs/ai-logic)
 
+# Agentic App Manager
+**Target Platforms:** iOS, Android, Web
